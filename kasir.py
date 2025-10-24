@@ -1,1 +1,0 @@
-print("Program Berhasil dijalankan")
